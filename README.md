@@ -93,9 +93,22 @@ No of records/rows- 250001
 
 ## Models Used:
 
-1. Logistic Regression
+Logistic Regression
 
-2. Random Forest
+Random Forest
+
+## Conclusion:
+
+In this analysis, we have evaluated the performance of two powerful machine learning models, Logistic Regression and Random Forest, on our dataset. The results obtained are incredibly promising, showcasing the remarkable predictive abilities of both models.
+
+Logistic Regression: Our Logistic Regression model demonstrates exceptional performance, achieving an F1 score of 99%. This score indicates a high level of precision and recall, reflecting the model's ability to correctly classify instances across both classes with outstanding accuracy.
+
+Random Forest: Similarly, our Random Forest model exhibits stellar performance, achieving a perfect F1 score of 100%. The model's ability to achieve optimal precision and recall across all classes is remarkable and underscores its effectiveness in capturing complex relationships within the data.
+
+By Using Feature Importance we could observe the Top 10 features are most influential in making predictions.
+
+
+
 
 
 
